@@ -6,4 +6,6 @@ This is an example git repository for the Git tutorial on https://www.w3schools.
 This repository is build step by step in the tutorial. This tutorial focuses mainly on Git using GitHub as its remote.
 It includes steps for GitHub.
 
+Added a new line in VS Code Editor.
+
 Stay calm and keep coding :)
